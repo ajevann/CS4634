@@ -1,0 +1,93 @@
+[04-Dec-2011 18:49:55] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'weston_designoi'@'localhost' (using password: YES) in /home/weston/public_html/temp/connect.php on line 3
+[04-Dec-2011 18:51:02] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Unknown MySQL server host 'http' (1) in /home/weston/public_html/temp/connect.php on line 3
+[04-Dec-2011 19:16:39] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/weston/public_html/temp/connect.php on line 12
+[04-Dec-2011 19:17:37] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/weston/public_html/temp/connect.php on line 12
+[04-Dec-2011 19:17:53] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/weston/public_html/temp/connect.php on line 12
+[04-Dec-2011 19:17:53] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/weston/public_html/temp/connect.php on line 14
+[04-Dec-2011 20:51:42] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/weston/public_html/temp/connect.php on line 10
+[04-Dec-2011 20:51:42] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/weston/public_html/temp/connect.php on line 10
+[04-Dec-2011 20:52:12] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/weston/public_html/temp/connect.php on line 10
+[04-Dec-2011 20:52:12] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/weston/public_html/temp/connect.php on line 10
+[04-Dec-2011 20:55:44] PHP Parse error:  syntax error, unexpected T_LOGICAL_OR in /home/weston/public_html/temp/connect.php on line 9
+[04-Dec-2011 20:56:07] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/weston/public_html/temp/connect.php on line 10
+[04-Dec-2011 21:00:34] PHP Parse error:  syntax error, unexpected ';' in /home/weston/public_html/temp/connect.php on line 12
+[04-Dec-2011 21:00:47] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/weston/public_html/temp/connect.php on line 12
+[04-Dec-2011 21:33:12] PHP Parse error:  syntax error, unexpected '.' in /home/weston/public_html/temp/connect.php on line 16
+[04-Dec-2011 21:33:15] PHP Parse error:  syntax error, unexpected '.' in /home/weston/public_html/temp/connect.php on line 16
+[04-Dec-2011 21:38:14] PHP Warning:  include(myFile.php?Room=2) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/weston/public_html/temp/connect.php on line 20
+[04-Dec-2011 21:38:14] PHP Warning:  include(myFile.php?Room=2) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/weston/public_html/temp/connect.php on line 20
+[04-Dec-2011 21:38:14] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'myFile.php?Room=2' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/weston/public_html/temp/connect.php on line 20
+[04-Dec-2011 21:38:14] PHP Warning:  include(myFile.php?Room=2) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/weston/public_html/temp/connect.php on line 20
+[04-Dec-2011 21:38:14] PHP Warning:  include(myFile.php?Room=2) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/weston/public_html/temp/connect.php on line 20
+[04-Dec-2011 21:38:14] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'myFile.php?Room=2' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/weston/public_html/temp/connect.php on line 20
+[04-Dec-2011 21:39:18] PHP Fatal error:  Call to undefined function  esc() in /home/weston/public_html/temp/myFile.php on line 3
+[04-Dec-2011 21:40:14] PHP Warning:  include(myFile.php?Room=11) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/weston/public_html/temp/connect.php on line 20
+[04-Dec-2011 21:40:14] PHP Warning:  include(myFile.php?Room=11) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/weston/public_html/temp/connect.php on line 20
+[04-Dec-2011 21:40:14] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'myFile.php?Room=11' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/weston/public_html/temp/connect.php on line 20
+[04-Dec-2011 21:40:14] PHP Warning:  include(myFile.php?Room=11) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/weston/public_html/temp/connect.php on line 20
+[04-Dec-2011 21:40:14] PHP Warning:  include(myFile.php?Room=11) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/weston/public_html/temp/connect.php on line 20
+[04-Dec-2011 21:40:14] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'myFile.php?Room=11' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/weston/public_html/temp/connect.php on line 20
+[04-Dec-2011 21:40:38] PHP Warning:  include(myFile.php?Room=11) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/weston/public_html/temp/connect.php on line 20
+[04-Dec-2011 21:40:38] PHP Warning:  include(myFile.php?Room=11) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/weston/public_html/temp/connect.php on line 20
+[04-Dec-2011 21:40:38] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'myFile.php?Room=11' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/weston/public_html/temp/connect.php on line 20
+[04-Dec-2011 21:40:38] PHP Warning:  include(myFile.php?Room=11) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/weston/public_html/temp/connect.php on line 20
+[04-Dec-2011 21:40:38] PHP Warning:  include(myFile.php?Room=11) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/weston/public_html/temp/connect.php on line 20
+[04-Dec-2011 21:40:38] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'myFile.php?Room=11' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/weston/public_html/temp/connect.php on line 20
+[04-Dec-2011 21:40:39] PHP Warning:  include(myFile.php?Room=11) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/weston/public_html/temp/connect.php on line 20
+[04-Dec-2011 21:40:39] PHP Warning:  include(myFile.php?Room=11) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/weston/public_html/temp/connect.php on line 20
+[04-Dec-2011 21:40:39] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'myFile.php?Room=11' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/weston/public_html/temp/connect.php on line 20
+[04-Dec-2011 21:40:39] PHP Warning:  include(myFile.php?Room=11) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/weston/public_html/temp/connect.php on line 20
+[04-Dec-2011 21:40:39] PHP Warning:  include(myFile.php?Room=11) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/weston/public_html/temp/connect.php on line 20
+[04-Dec-2011 21:40:39] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'myFile.php?Room=11' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/weston/public_html/temp/connect.php on line 20
+[04-Dec-2011 21:41:02] PHP Warning:  include(myFile.php?room=11) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/weston/public_html/temp/connect.php on line 20
+[04-Dec-2011 21:41:02] PHP Warning:  include(myFile.php?room=11) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/weston/public_html/temp/connect.php on line 20
+[04-Dec-2011 21:41:02] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'myFile.php?room=11' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/weston/public_html/temp/connect.php on line 20
+[04-Dec-2011 21:41:02] PHP Warning:  include(myFile.php?room=11) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/weston/public_html/temp/connect.php on line 20
+[04-Dec-2011 21:41:02] PHP Warning:  include(myFile.php?room=11) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/weston/public_html/temp/connect.php on line 20
+[04-Dec-2011 21:41:02] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'myFile.php?room=11' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/weston/public_html/temp/connect.php on line 20
+[04-Dec-2011 21:54:27] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/weston/public_html/temp/myFile.php on line 5
+[04-Dec-2011 21:54:30] PHP Parse error:  syntax error, unexpected $end in /home/weston/public_html/temp/connect.php on line 23
+[04-Dec-2011 21:54:57] PHP Parse error:  syntax error, unexpected $end in /home/weston/public_html/temp/connect.php on line 23
+[04-Dec-2011 21:57:31] PHP Parse error:  syntax error, unexpected '.' in /home/weston/public_html/temp/myFile.php on line 4
+[04-Dec-2011 22:01:59] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home/weston/public_html/temp/myFile.php on line 9
+[04-Dec-2011 22:14:01] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/weston/public_html/temp/trial.php on line 12
+[05-Dec-2011 17:44:47] PHP Fatal error:  Call to undefined function  esc() in /home/weston/public_html/temp/delete.php on line 3
+[05-Dec-2011 17:57:15] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/weston/public_html/temp/delete.php:5) in /home/weston/public_html/temp/delete.php on line 8
+[05-Dec-2011 18:00:32] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/weston/public_html/temp/delete.php:5) in /home/weston/public_html/temp/delete.php on line 9
+[05-Dec-2011 18:04:03] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/weston/public_html/temp/delete.php:5) in /home/weston/public_html/temp/delete.php on line 10
+[05-Dec-2011 18:18:02] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/weston/public_html/temp/uploader.php:13) in /home/weston/public_html/temp/uploader.php on line 38
+[05-Dec-2011 18:31:45] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/weston/public_html/temp/uploader.php:13) in /home/weston/public_html/temp/uploader.php on line 38
+[05-Dec-2011 18:31:55] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/weston/public_html/temp/uploader.php:9) in /home/weston/public_html/temp/uploader.php on line 38
+[05-Dec-2011 19:37:51] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/weston/public_html/temp/edittags.php on line 39
+[05-Dec-2011 21:45:31] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/weston/public_html/temp/edittags.php on line 77
+[05-Dec-2011 21:46:02] PHP Parse error:  syntax error, unexpected T_INCLUDE in /home/weston/public_html/temp/edittags.php on line 80
+[05-Dec-2011 21:46:32] PHP Parse error:  syntax error, unexpected '}' in /home/weston/public_html/temp/edittags.php on line 81
+[05-Dec-2011 21:46:52] PHP Parse error:  syntax error, unexpected '}' in /home/weston/public_html/temp/edittags.php on line 81
+[05-Dec-2011 21:46:53] PHP Parse error:  syntax error, unexpected '}' in /home/weston/public_html/temp/edittags.php on line 81
+[05-Dec-2011 21:46:53] PHP Parse error:  syntax error, unexpected '}' in /home/weston/public_html/temp/edittags.php on line 81
+[05-Dec-2011 21:47:12] PHP Parse error:  syntax error, unexpected '}' in /home/weston/public_html/temp/edittags.php on line 81
+[05-Dec-2011 21:56:21] PHP Parse error:  syntax error, unexpected '=' in /home/weston/public_html/temp/edittags.php on line 76
+[05-Dec-2011 22:11:26] PHP Parse error:  syntax error, unexpected ';' in /home/weston/public_html/temp/edittags.php on line 84
+[05-Dec-2011 23:08:01] PHP Warning:  mysql_fetch_row(): supplied argument is not a valid MySQL result resource in /home/weston/public_html/temp/addtag.php on line 27
+[05-Dec-2011 23:09:01] PHP Warning:  mysql_fetch_row(): supplied argument is not a valid MySQL result resource in /home/weston/public_html/temp/addtag.php on line 31
+[05-Dec-2011 23:12:13] PHP Fatal error:  Call to undefined function  mysql_fetch_arrray() in /home/weston/public_html/temp/addtag.php on line 31
+[05-Dec-2011 23:14:41] PHP Fatal error:  Call to undefined function  mysql_fetch_arrray() in /home/weston/public_html/temp/addtag.php on line 31
+[05-Dec-2011 23:14:49] PHP Fatal error:  Call to undefined function  mysql_fetch_arrray() in /home/weston/public_html/temp/addtag.php on line 31
+[05-Dec-2011 23:20:44] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/weston/public_html/temp/addtag.php on line 27
+[05-Dec-2011 23:25:21] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/weston/public_html/temp/addtag.php on line 32
+[06-Dec-2011 00:46:09] PHP Parse error:  syntax error, unexpected T_ELSE in /home/weston/public_html/temp/edittags.php on line 93
+[06-Dec-2011 00:52:40] PHP Parse error:  syntax error, unexpected T_IF in /home/weston/public_html/temp/edittags.php on line 76
+[06-Dec-2011 00:53:14] PHP Parse error:  syntax error, unexpected T_IF in /home/weston/public_html/temp/edittags.php on line 76
+[06-Dec-2011 00:53:23] PHP Parse error:  syntax error, unexpected T_IF in /home/weston/public_html/temp/edittags.php on line 76
+[06-Dec-2011 00:53:24] PHP Parse error:  syntax error, unexpected T_IF in /home/weston/public_html/temp/edittags.php on line 76
+[06-Dec-2011 00:53:28] PHP Parse error:  syntax error, unexpected T_ECHO in /home/weston/public_html/temp/edittags.php on line 76
+[06-Dec-2011 00:53:46] PHP Parse error:  syntax error, unexpected T_ECHO in /home/weston/public_html/temp/edittags.php on line 76
+[06-Dec-2011 00:54:00] PHP Parse error:  syntax error, unexpected T_WHILE in /home/weston/public_html/temp/edittags.php on line 76
+[06-Dec-2011 01:05:56] PHP Parse error:  syntax error, unexpected '<' in /home/weston/public_html/temp/populatetags.php on line 55
+[06-Dec-2011 01:06:10] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/weston/public_html/temp/populatetags.php on line 55
+[06-Dec-2011 01:17:52] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/weston/public_html/temp/edittags.php on line 66
+[06-Dec-2011 02:22:27] PHP Fatal error:  Call to undefined function  mysql_query_array() in /home/weston/public_html/temp/addtag.php on line 15
+[06-Dec-2011 02:23:19] PHP Fatal error:  Call to undefined function  mysql_query_array() in /home/weston/public_html/temp/addtag.php on line 15
+[06-Dec-2011 02:25:27] PHP Fatal error:  Call to undefined function  mysql_query_array() in /home/weston/public_html/temp/addtag.php on line 15
+[06-Dec-2011 02:27:40] PHP Fatal error:  Call to undefined function  mysql_query_array() in /home/weston/public_html/temp/addtag.php on line 16
+[06-Dec-2011 02:28:13] PHP Fatal error:  Call to undefined function  mysql_query_array() in /home/weston/public_html/temp/addtag.php on line 16
